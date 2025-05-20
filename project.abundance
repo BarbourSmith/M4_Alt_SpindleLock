@@ -1025,6 +1025,38 @@
                 }
             ],
             "description": "Moves a shape laterally in X, Y, Z."
+        },
+        {
+            "atomType": "Circle",
+            "name": "Circle",
+            "x": 0.6058201058201058,
+            "y": 0.7019498607242339,
+            "uniqueID": 1747781245351,
+            "ioValues": [
+                {
+                    "name": "diameter",
+                    "ioValue": 12
+                }
+            ],
+            "description": "Creates a new circle."
+        },
+        {
+            "atomType": "Rectangle",
+            "name": "Rectangle",
+            "x": 0.7268518518518519,
+            "y": 0.7158774373259054,
+            "uniqueID": 1747781254613,
+            "ioValues": [
+                {
+                    "name": "x length",
+                    "ioValue": 100
+                },
+                {
+                    "name": "y length",
+                    "ioValue": 10
+                }
+            ],
+            "description": "Creates a new rectangle."
         }
     ],
     "allConnectors": [
